@@ -1,10 +1,6 @@
 positivo
-negativo
 positivo
 positivo
-positivo
-positivo
-negativo
 positivo
 negativo
 negativo
